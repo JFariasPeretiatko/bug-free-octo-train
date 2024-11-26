@@ -1,0 +1,2049 @@
+{
+  "identifier" : "TCEL",
+  "migrations" : [ {
+    "op" : "replace",
+    "path" : "/allAttributes/:43",
+    "value" : "VL_ORIGEM"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:44",
+    "value" : "VL_SALDO_RESERVA"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:45",
+    "value" : "VL_TOTAL_HOTEL"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:27",
+    "value" : "DS_MOTIVO_CANCELAMENTO"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:28",
+    "value" : "DS_TIPO_RESERVA"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:29",
+    "value" : "DT_ATUALIZACAO"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:31",
+    "value" : "DT_ENTRADA_HOTEL"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:32",
+    "value" : "DT_SAIDA_HOTEL"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:33",
+    "value" : "IE_CANCELAMENTO"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:34",
+    "value" : "IE_TIPO_RESERVA"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:35",
+    "value" : "NM_HOTEL"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:36",
+    "value" : "NM_USUARIO"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:37",
+    "value" : "NM_USUARIO_NREC"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:38",
+    "value" : "NR_SEQ_HOTEL"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:39",
+    "value" : "NR_SEQ_ITINERARIO"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:0",
+    "value" : "NR_LOCALIZADOR"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:1",
+    "value" : "NR_SEQUENCIA"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:40",
+    "value" : "NR_SEQ_VIAGEM"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:42",
+    "value" : "VL_MULTA"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052757"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052779"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052778"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052756"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052759"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052737"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052758"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052736"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052753"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052775"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052752"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052774"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052755"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052777"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052754"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052776"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052771"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052770"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052751"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052773"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052772"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052750"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052749"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052746"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052768"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052745"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052767"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052748"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052747"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052769"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052742"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052764"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052741"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052763"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052744"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052766"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052743"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052765"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052760"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052781"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052740"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052762"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052761"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052780"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052739"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:728052738"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504491",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504491,
+      "componente" : "DATETIMEPICKER",
+      "criarDescFk" : true,
+      "criarDescricao" : false,
+      "dbClickReadOnly" : false,
+      "dbPanelComponentType" : "DTP",
+      "displayCurrentTime" : false,
+      "enabled" : true,
+      "foreignKey" : false,
+      "gridLabel" : "Date of hotel entry",
+      "gridLabelExpressionCode" : 286841,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "label" : "Date of hotel entry",
+      "labelExpressionCode" : 286841,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : false,
+      "mask" : "date(short)",
+      "nmAtributo" : "DT_ENTRADA_HOTEL",
+      "primaryKey" : false,
+      "qtLargura" : 200,
+      "readOnly" : false,
+      "sensitive" : false,
+      "tabStop" : true,
+      "tipoAtributo" : "DATE",
+      "tooltip" : "Specify the date of entry into the hotel",
+      "tooltipExpressionCode" : 575866
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504492",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504492,
+      "componente" : "DATETIMEPICKER",
+      "criarDescFk" : true,
+      "criarDescricao" : false,
+      "dbClickReadOnly" : false,
+      "dbPanelComponentType" : "DTP",
+      "displayCurrentTime" : false,
+      "enabled" : true,
+      "foreignKey" : false,
+      "gridLabel" : "Hotel departure date",
+      "gridLabelExpressionCode" : 287216,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "label" : "Hotel departure date",
+      "labelExpressionCode" : 287216,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : false,
+      "mask" : "date(short)",
+      "nmAtributo" : "DT_SAIDA_HOTEL",
+      "primaryKey" : false,
+      "qtLargura" : 200,
+      "readOnly" : false,
+      "sensitive" : false,
+      "tabStop" : true,
+      "tipoAtributo" : "DATE",
+      "tooltip" : "Specify the hotel departure date",
+      "tooltipExpressionCode" : 576142,
+      "widthHTML" : 300
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504493",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504493,
+      "componente" : "DATETIMEPICKER",
+      "criarDescFk" : true,
+      "criarDescricao" : false,
+      "dbClickReadOnly" : false,
+      "dbPanelComponentType" : "DTP",
+      "displayCurrentTime" : false,
+      "enabled" : true,
+      "foreignKey" : false,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieTipoDate" : "DH",
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : true,
+      "nmAtributo" : "DT_ATUALIZACAO",
+      "primaryKey" : false,
+      "readOnly" : false,
+      "sensitive" : false,
+      "tabStop" : true,
+      "tipoAtributo" : "DATE",
+      "tooltip" : "Information automatically generated by the system.",
+      "tooltipExpressionCode" : 557610
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504494",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504494,
+      "criarDescFk" : true,
+      "criarDescricao" : false,
+      "dbClickReadOnly" : false,
+      "displayCurrentTime" : false,
+      "enabled" : true,
+      "foreignKey" : false,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : true,
+      "nmAtributo" : "NM_USUARIO",
+      "primaryKey" : false,
+      "readOnly" : false,
+      "sensitive" : false,
+      "tabStop" : true,
+      "tipoAtributo" : "VARCHAR2"
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504495",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504495,
+      "componente" : "DATETIMEPICKER",
+      "criarDescFk" : true,
+      "criarDescricao" : false,
+      "dbClickReadOnly" : false,
+      "dbPanelComponentType" : "DTP",
+      "displayCurrentTime" : false,
+      "enabled" : true,
+      "foreignKey" : false,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieTipoDate" : "DH",
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : false,
+      "nmAtributo" : "DT_ATUALIZACAO_NREC",
+      "primaryKey" : false,
+      "readOnly" : false,
+      "sensitive" : false,
+      "tabStop" : true,
+      "tipoAtributo" : "DATE",
+      "tooltip" : "Information automatically generated by the system.",
+      "tooltipExpressionCode" : 557610
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504496",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504496,
+      "criarDescFk" : true,
+      "criarDescricao" : false,
+      "dbClickReadOnly" : false,
+      "displayCurrentTime" : false,
+      "enabled" : true,
+      "foreignKey" : false,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : false,
+      "nmAtributo" : "NM_USUARIO_NREC",
+      "primaryKey" : false,
+      "readOnly" : false,
+      "sensitive" : false,
+      "tabStop" : true,
+      "tipoAtributo" : "VARCHAR2"
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504497",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504497,
+      "componente" : "TEXTBOX",
+      "criarDescFk" : true,
+      "criarDescricao" : false,
+      "dbClickReadOnly" : false,
+      "dbPanelComponentType" : "DE",
+      "displayCurrentTime" : false,
+      "enabled" : true,
+      "foreignKey" : false,
+      "gridLabel" : "Sequence",
+      "gridLabelExpressionCode" : 298311,
+      "gridSequence" : 1,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : true,
+      "nmAtributo" : "NR_SEQUENCIA",
+      "ordem" : 1,
+      "primaryKey" : true,
+      "qtDecimais" : 0,
+      "qtLargura" : 100,
+      "readOnly" : false,
+      "sensitive" : false,
+      "tabStop" : true,
+      "tipoAtributo" : "NUMBER",
+      "tooltip" : "Information automatically generated by the system.",
+      "tooltipExpressionCode" : 557610,
+      "vlDefault" : "@Sequence"
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504530",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504530,
+      "criarDescFk" : true,
+      "criarDescricao" : false,
+      "dbClickReadOnly" : false,
+      "displayCurrentTime" : false,
+      "enabled" : true,
+      "foreignKey" : false,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : false,
+      "nmAtributo" : "VL_CANCELAMENTO",
+      "primaryKey" : false,
+      "qtDecimais" : 2,
+      "readOnly" : false,
+      "sensitive" : false,
+      "tabStop" : true,
+      "tipoAtributo" : "NUMBER"
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504498",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504498,
+      "componente" : "LISTBOX",
+      "criarDescFk" : true,
+      "criarDescricao" : false,
+      "dbClickReadOnly" : false,
+      "dbPanelComponentType" : "LCB",
+      "displayCurrentTime" : false,
+      "enabled" : true,
+      "foreignKey" : true,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "label" : "Transport mode",
+      "labelExpressionCode" : 293180,
+      "largura" : 6,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : false,
+      "nmAtributo" : "NR_SEQ_MEIO_TRANSP",
+      "ordem" : 5,
+      "primaryKey" : false,
+      "qtDecimais" : 0,
+      "readOnly" : false,
+      "row" : 20,
+      "sensitive" : false,
+      "tabStop" : true,
+      "tipoAtributo" : "NUMBER",
+      "tooltip" : "Specify the means of transportation for the reservation.",
+      "tooltipExpressionCode" : 574829,
+      "widthHTML" : 200
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504531",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504531,
+      "criarDescFk" : true,
+      "criarDescricao" : false,
+      "dbClickReadOnly" : false,
+      "displayCurrentTime" : false,
+      "enabled" : true,
+      "foreignKey" : false,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : false,
+      "nmAtributo" : "VL_SALDO_RESERVA",
+      "primaryKey" : false,
+      "qtDecimais" : 2,
+      "readOnly" : false,
+      "sensitive" : false,
+      "tabStop" : true,
+      "tipoAtributo" : "NUMBER"
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504499",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504499,
+      "componente" : "TEXTBOX_LOCATOR",
+      "criarDescFk" : true,
+      "criarDescricao" : true,
+      "dbClickReadOnly" : false,
+      "dbPanelComponentType" : "LOC",
+      "displayCurrentTime" : false,
+      "enabled" : true,
+      "foreignKey" : true,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "label" : "Company ",
+      "labelExpressionCode" : 289182,
+      "largura" : 3,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : false,
+      "nmAtributo" : "CD_EMPRESA_RESERVA",
+      "nmAtributoCd" : "CD_CGC",
+      "nmAtributoDs" : "DS_RAZAO_SOCIAL",
+      "nmTabelaRef" : "PESSOA_JURIDICA",
+      "nrSeqLocalizador" : 11,
+      "ordem" : 21,
+      "primaryKey" : false,
+      "readOnly" : false,
+      "row" : 30,
+      "sensitive" : false,
+      "tabStop" : true,
+      "tipoAtributo" : "VARCHAR2",
+      "tooltip" : "Specify the company who will be responsible for the transportation",
+      "tooltipExpressionCode" : 570483,
+      "widthHTML" : 250
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504510",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504510,
+      "componente" : "TEXTBOX_LOCATOR",
+      "criarDescFk" : true,
+      "criarDescricao" : true,
+      "dbClickReadOnly" : false,
+      "dbPanelComponentType" : "LOC",
+      "displayCurrentTime" : false,
+      "enabled" : true,
+      "foreignKey" : false,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "label" : "Branch",
+      "labelExpressionCode" : 283230,
+      "largura" : 3,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : false,
+      "nmAtributo" : "CD_CGC_AGENCIA",
+      "nmAtributoCd" : "CD_CGC",
+      "nmAtributoDs" : "DS_RAZAO_SOCIAL",
+      "nmTabelaRef" : "PESSOA_JURIDICA",
+      "nrSeqLocalizador" : 11,
+      "ordem" : 25,
+      "primaryKey" : false,
+      "readOnly" : false,
+      "row" : 40,
+      "sensitive" : false,
+      "tabStop" : true,
+      "tipoAtributo" : "VARCHAR2",
+      "tooltip" : "Specify the agency of the reservation",
+      "tooltipExpressionCode" : 593857,
+      "widthHTML" : 300
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504532",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504532,
+      "componente" : "LISTBOX",
+      "criarDescFk" : true,
+      "criarDescricao" : false,
+      "dbClickReadOnly" : false,
+      "dbPanelComponentType" : "LCB",
+      "displayCurrentTime" : false,
+      "domainCode" : 1866,
+      "enabled" : true,
+      "foreignKey" : false,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "label" : "Cost responsible agent",
+      "labelExpressionCode" : 297749,
+      "largura" : 12,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : true,
+      "nmAtributo" : "IE_RESPONSAVEL_CUSTO",
+      "ordem" : 67,
+      "primaryKey" : false,
+      "readOnly" : false,
+      "row" : 80,
+      "sensitive" : false,
+      "tabStop" : true,
+      "tipoAtributo" : "VARCHAR2",
+      "tooltip" : "Specify the person responsible for the cost of the reservation",
+      "tooltipExpressionCode" : 589760,
+      "vlDefault" : "N",
+      "widthHTML" : 200
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504533",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504533,
+      "componente" : "TEXTBOX_LOCATOR",
+      "criarDescFk" : true,
+      "criarDescricao" : true,
+      "dbClickReadOnly" : false,
+      "dbPanelComponentType" : "LOC",
+      "displayCurrentTime" : false,
+      "enabled" : true,
+      "foreignKey" : false,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "label" : "Third party (debit)",
+      "labelExpressionCode" : 299305,
+      "largura" : 3,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : false,
+      "nmAtributo" : "CD_CGC_RESP_CUSTO",
+      "nmAtributoCd" : "CD_CGC",
+      "nmAtributoDs" : "DS_RAZAO_SOCIAL",
+      "nmTabelaRef" : "PESSOA_JURIDICA",
+      "nrSeqLocalizador" : 11,
+      "ordem" : 79,
+      "primaryKey" : false,
+      "readOnly" : false,
+      "row" : 100,
+      "sensitive" : false,
+      "tabStop" : true,
+      "tipoAtributo" : "VARCHAR2",
+      "tooltip" : "Specify the company responsible for the reservation cost",
+      "tooltipExpressionCode" : 570485,
+      "widthHTML" : 300
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504511",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504511,
+      "componente" : "LISTBOX",
+      "criarDescFk" : true,
+      "criarDescricao" : false,
+      "dbClickReadOnly" : false,
+      "dbPanelComponentType" : "LCB",
+      "displayCurrentTime" : false,
+      "domainCode" : 1765,
+      "enabled" : true,
+      "foreignKey" : false,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "leftAnchored" : false,
+      "legacyLabel" : "Tipo de reserva",
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : true,
+      "nmAtributo" : "IE_TIPO_RESERVA",
+      "primaryKey" : false,
+      "readOnly" : false,
+      "sensitive" : false,
+      "tabStop" : true,
+      "tipoAtributo" : "VARCHAR2",
+      "vlDefault" : "T"
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504512",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504512,
+      "criarDescFk" : true,
+      "criarDescricao" : false,
+      "dbClickReadOnly" : false,
+      "displayCurrentTime" : false,
+      "dsValores" : "Substr(Obter_Desc_Meio_Transp(nr_seq_meio_transp),1,80)",
+      "enabled" : true,
+      "foreignKey" : false,
+      "gridLabel" : "Transport mode",
+      "gridLabelExpressionCode" : 293180,
+      "gridSequence" : 6,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : false,
+      "nmAtributo" : "DS_MEIO_TRANSP",
+      "nmAtributoPai" : [ "NR_SEQ_MEIO_TRANSP" ],
+      "ordem" : 22,
+      "primaryKey" : false,
+      "qtLargura" : 180,
+      "readOnly" : true,
+      "sensitive" : false,
+      "tabStop" : false,
+      "tipoAtributo" : "FUNCTION",
+      "tooltip" : "Information automatically generated by the system.",
+      "tooltipExpressionCode" : 561580,
+      "widthHTML" : 250
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504534",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504534,
+      "criarDescFk" : true,
+      "criarDescricao" : false,
+      "dbClickReadOnly" : false,
+      "displayCurrentTime" : false,
+      "dsValores" : "substr(obter_valor_dominio(1866, ie_responsavel_custo),1,100)",
+      "enabled" : true,
+      "foreignKey" : false,
+      "gridLabel" : "Cost responsible agent",
+      "gridLabelExpressionCode" : 297749,
+      "gridSequence" : 60,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : false,
+      "nmAtributo" : "DS_RESPONSAVEL_CUSTO",
+      "ordem" : 75,
+      "primaryKey" : false,
+      "qtLargura" : 200,
+      "readOnly" : true,
+      "sensitive" : false,
+      "tabStop" : false,
+      "tipoAtributo" : "FUNCTION",
+      "tooltip" : "Information automatically generated by the system.",
+      "tooltipExpressionCode" : 561580
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504513",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504513,
+      "criarDescFk" : true,
+      "criarDescricao" : false,
+      "dbClickReadOnly" : false,
+      "displayCurrentTime" : false,
+      "dsValores" : "substr(obter_dados_pf_pj(null,cd_empresa_reserva,'N'),1,60)",
+      "enabled" : true,
+      "foreignKey" : false,
+      "gridLabel" : "Company ",
+      "gridLabelExpressionCode" : 289182,
+      "gridSequence" : 20,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "largura" : 12,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : false,
+      "nmAtributo" : "DS_EMPRESA_RESERVA",
+      "nmAtributoPai" : [ "CD_EMPRESA_RESERVA" ],
+      "ordem" : 26,
+      "primaryKey" : false,
+      "qtLargura" : 200,
+      "readOnly" : true,
+      "sensitive" : false,
+      "tabStop" : false,
+      "tipoAtributo" : "FUNCTION",
+      "tooltip" : "Information automatically generated by the system.",
+      "tooltipExpressionCode" : 561580
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504535",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504535,
+      "criarDescFk" : true,
+      "criarDescricao" : false,
+      "dbClickReadOnly" : false,
+      "displayCurrentTime" : false,
+      "dsValores" : "substr(obter_dados_pf_pj(null,cd_cgc_resp_custo,'N'),1,60)",
+      "enabled" : true,
+      "foreignKey" : false,
+      "gridLabel" : "Third party (debit)",
+      "gridLabelExpressionCode" : 299305,
+      "gridSequence" : 65,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : false,
+      "nmAtributo" : "DS_EMPRESA_RESP_CUSTO",
+      "ordem" : 85,
+      "primaryKey" : false,
+      "qtLargura" : 230,
+      "readOnly" : true,
+      "sensitive" : false,
+      "tabStop" : false,
+      "tipoAtributo" : "FUNCTION",
+      "tooltip" : "Information automatically generated by the system.",
+      "tooltipExpressionCode" : 557610,
+      "widthHTML" : 300
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504514",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504514,
+      "componente" : "LISTBOX",
+      "criarDescFk" : true,
+      "criarDescricao" : false,
+      "dbClickReadOnly" : false,
+      "dbPanelComponentType" : "LCB",
+      "displayCurrentTime" : false,
+      "domainCode" : 1849,
+      "enabled" : true,
+      "foreignKey" : false,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "label" : "Payment responsible agent",
+      "labelExpressionCode" : 297759,
+      "largura" : 12,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : true,
+      "nmAtributo" : "IE_RESPONSAVEL_PAGTO",
+      "ordem" : 50,
+      "primaryKey" : false,
+      "readOnly" : false,
+      "row" : 60,
+      "sensitive" : false,
+      "tabStop" : true,
+      "tipoAtributo" : "VARCHAR2",
+      "tooltip" : "Specify the person responsible for the payment of the reservation",
+      "tooltipExpressionCode" : 592989,
+      "vlDefault" : "W",
+      "widthHTML" : 150
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504536",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504536,
+      "criarDescFk" : true,
+      "criarDescricao" : false,
+      "dbClickReadOnly" : false,
+      "displayCurrentTime" : false,
+      "enabled" : true,
+      "foreignKey" : false,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : false,
+      "nmAtributo" : "VL_MULTA",
+      "primaryKey" : false,
+      "qtDecimais" : 2,
+      "readOnly" : false,
+      "sensitive" : false,
+      "tabStop" : true,
+      "tipoAtributo" : "NUMBER"
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504515",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504515,
+      "componente" : "TEXTBOX",
+      "criarDescFk" : true,
+      "criarDescricao" : false,
+      "dbClickReadOnly" : false,
+      "dbPanelComponentType" : "DE",
+      "displayCurrentTime" : false,
+      "enabled" : true,
+      "foreignKey" : false,
+      "gridLabel" : "Ticket value",
+      "gridLabelExpressionCode" : 855261,
+      "gridSequence" : 90,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "label" : "Ticket value",
+      "labelExpressionCode" : 855261,
+      "largura" : 3,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : false,
+      "mask" : "currency(minFrac:2,maxFrac:2)",
+      "nmAtributo" : "VL_RESERVA",
+      "ordem" : 90,
+      "primaryKey" : false,
+      "qtDecimais" : 2,
+      "qtLargura" : 200,
+      "readOnly" : false,
+      "row" : 110,
+      "sensitive" : false,
+      "tabStop" : true,
+      "tipoAtributo" : "NUMBER",
+      "tooltip" : "Specify the value of the travel ticket or hotel reservation.",
+      "tooltipExpressionCode" : 570484,
+      "widthHTML" : 200
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504516",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504516,
+      "criarDescFk" : true,
+      "criarDescricao" : false,
+      "dbClickReadOnly" : false,
+      "displayCurrentTime" : false,
+      "dsValores" : "substr(obter_valor_dominio(1849, ie_responsavel_pagto),1,100)",
+      "enabled" : true,
+      "foreignKey" : false,
+      "gridLabel" : "Payment responsible agent",
+      "gridLabelExpressionCode" : 297759,
+      "gridSequence" : 55,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : false,
+      "nmAtributo" : "DS_RESPONSAVEL_PAGTO",
+      "ordem" : 61,
+      "primaryKey" : false,
+      "qtLargura" : 200,
+      "readOnly" : true,
+      "sensitive" : false,
+      "tabStop" : false,
+      "tipoAtributo" : "FUNCTION",
+      "tooltip" : "Information automatically generated by the system.",
+      "tooltipExpressionCode" : 561580,
+      "widthHTML" : 300
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504517",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504517,
+      "componente" : "LISTBOX",
+      "criarDescFk" : true,
+      "criarDescricao" : false,
+      "dbClickReadOnly" : false,
+      "dbPanelComponentType" : "LCB",
+      "displayCurrentTime" : false,
+      "dsValores" : "select  nr_sequencia cd,           substr(obter_dados_pf_pj(null,cd_cnpj_hotel,'F'),1,60) ds\r\nfrom     via_hotel\r\nwhere ie_situacao = 'A'\r\norder  by 2",
+      "enabled" : true,
+      "foreignKey" : true,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "label" : "Hotel ",
+      "labelExpressionCode" : 291501,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : false,
+      "nmAtributo" : "NR_SEQ_HOTEL",
+      "primaryKey" : false,
+      "qtDecimais" : 0,
+      "readOnly" : false,
+      "sensitive" : false,
+      "tabStop" : true,
+      "tipoAtributo" : "NUMBER",
+      "tooltip" : "Specify the hotel in which the traveler will stay",
+      "tooltipExpressionCode" : 566007
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504518",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504518,
+      "criarDescFk" : true,
+      "criarDescricao" : false,
+      "dbClickReadOnly" : false,
+      "displayCurrentTime" : false,
+      "dsValores" : "substr(obter_nome_hotel(nr_seq_hotel),1,100)",
+      "enabled" : true,
+      "foreignKey" : false,
+      "gridLabel" : "Hotel ",
+      "gridLabelExpressionCode" : 291501,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : false,
+      "nmAtributo" : "NM_HOTEL",
+      "nmAtributoPai" : [ "NR_SEQ_HOTEL" ],
+      "primaryKey" : false,
+      "qtLargura" : 200,
+      "readOnly" : true,
+      "sensitive" : false,
+      "tabStop" : false,
+      "tipoAtributo" : "FUNCTION",
+      "tooltip" : "Information automatically generated by the system.",
+      "tooltipExpressionCode" : 561580
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504519",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504519,
+      "componente" : "TEXTBOX",
+      "criarDescFk" : true,
+      "criarDescricao" : false,
+      "dbClickReadOnly" : false,
+      "dbPanelComponentType" : "DE",
+      "displayCurrentTime" : false,
+      "enabled" : true,
+      "foreignKey" : false,
+      "gridLabel" : "Search tool ",
+      "gridLabelExpressionCode" : 292744,
+      "gridSequence" : 2,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "label" : "Search tool ",
+      "labelExpressionCode" : 292744,
+      "largura" : 3,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : false,
+      "nmAtributo" : "NR_LOCALIZADOR",
+      "ordem" : 1,
+      "primaryKey" : false,
+      "qtLargura" : 120,
+      "readOnly" : false,
+      "row" : 10,
+      "sensitive" : false,
+      "tabStop" : true,
+      "tipoAtributo" : "VARCHAR2",
+      "tooltip" : "Specify the search tool number",
+      "tooltipExpressionCode" : 577777,
+      "widthHTML" : 200
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504520",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504520,
+      "componente" : "TEXTBOX",
+      "criarDescFk" : true,
+      "criarDescricao" : false,
+      "dbClickReadOnly" : false,
+      "dbPanelComponentType" : "DE",
+      "displayCurrentTime" : false,
+      "enabled" : true,
+      "foreignKey" : false,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "label" : "Seat ",
+      "labelExpressionCode" : 283816,
+      "largura" : 2,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : false,
+      "nmAtributo" : "DS_ASSENTO",
+      "offset" : 2,
+      "ordem" : 91,
+      "primaryKey" : false,
+      "readOnly" : false,
+      "row" : 110,
+      "sensitive" : false,
+      "tabStop" : true,
+      "tipoAtributo" : "VARCHAR2",
+      "tooltip" : "Specify the seat number",
+      "tooltipExpressionCode" : 593454,
+      "widthHTML" : 200
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504521",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504521,
+      "componente" : "TEXTBOX",
+      "criarDescFk" : true,
+      "criarDescricao" : false,
+      "dbClickReadOnly" : false,
+      "dbPanelComponentType" : "DE",
+      "displayCurrentTime" : false,
+      "enabled" : true,
+      "foreignKey" : false,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "label" : "E-Ticket ",
+      "labelExpressionCode" : 289641,
+      "largura" : 3,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : false,
+      "nmAtributo" : "DS_ETICKET",
+      "offset" : 2,
+      "ordem" : 92,
+      "primaryKey" : false,
+      "readOnly" : false,
+      "row" : 110,
+      "sensitive" : false,
+      "tabStop" : true,
+      "tipoAtributo" : "VARCHAR2",
+      "tooltip" : "Specify the e-ticket number",
+      "tooltipExpressionCode" : 587691,
+      "widthHTML" : 200
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504500",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504500,
+      "componente" : "DATETIMEPICKER",
+      "criarDescFk" : true,
+      "criarDescricao" : false,
+      "dbClickReadOnly" : false,
+      "dbPanelComponentType" : "DTP",
+      "displayCurrentTime" : false,
+      "enabled" : true,
+      "foreignKey" : false,
+      "gridLabel" : "Scheduled departure date",
+      "gridLabelExpressionCode" : 287219,
+      "gridSequence" : 35,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "label" : "Scheduled departure date",
+      "labelExpressionCode" : 287219,
+      "largura" : 3,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : false,
+      "mask" : "date(short)",
+      "nmAtributo" : "DT_SAIDA_PREV",
+      "ordem" : 35,
+      "primaryKey" : false,
+      "qtLargura" : 200,
+      "readOnly" : false,
+      "row" : 50,
+      "sensitive" : false,
+      "tabStop" : true,
+      "tipoAtributo" : "DATE",
+      "tooltip" : "Specify the departure date established for the trip",
+      "tooltipExpressionCode" : 586062,
+      "widthHTML" : 150
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504522",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504522,
+      "componente" : "TEXTBOX",
+      "criarDescFk" : true,
+      "criarDescricao" : false,
+      "dbClickReadOnly" : false,
+      "dbPanelComponentType" : "DE",
+      "displayCurrentTime" : false,
+      "dsValores" : "nvl(obter_valor_total_hotel(a.nr_sequencia),0)",
+      "enabled" : true,
+      "foreignKey" : false,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : false,
+      "nmAtributo" : "VL_TOTAL_HOTEL",
+      "primaryKey" : false,
+      "readOnly" : true,
+      "sensitive" : false,
+      "tabStop" : false,
+      "tipoAtributo" : "FUNCTION",
+      "tooltip" : "Information automatically generated by the system.",
+      "tooltipExpressionCode" : 557610
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504501",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504501,
+      "componente" : "DATETIMEPICKER",
+      "criarDescFk" : true,
+      "criarDescricao" : false,
+      "dbClickReadOnly" : false,
+      "dbPanelComponentType" : "DTP",
+      "displayCurrentTime" : false,
+      "enabled" : true,
+      "foreignKey" : false,
+      "gridLabel" : "Scheduled return date",
+      "gridLabelExpressionCode" : 287205,
+      "gridSequence" : 40,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "label" : "Scheduled return date",
+      "labelExpressionCode" : 287205,
+      "largura" : 3,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : false,
+      "mask" : "date(short)",
+      "nmAtributo" : "DT_RETORNO_PREV",
+      "offset" : 6,
+      "ordem" : 40,
+      "primaryKey" : false,
+      "qtLargura" : 200,
+      "readOnly" : false,
+      "row" : 50,
+      "sensitive" : false,
+      "tabStop" : true,
+      "tipoAtributo" : "DATE",
+      "tooltip" : "Specify the arrival date established for the trip",
+      "tooltipExpressionCode" : 588819,
+      "widthHTML" : 150
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504523",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504523,
+      "componente" : "CHECKBOX",
+      "criarDescFk" : true,
+      "criarDescricao" : false,
+      "dbClickReadOnly" : false,
+      "dbPanelComponentType" : "CB",
+      "displayCurrentTime" : false,
+      "domainCode" : 7060,
+      "dsValores" : "S,N",
+      "enabled" : true,
+      "foreignKey" : false,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "label" : "Additional reservation",
+      "labelExpressionCode" : 301055,
+      "largura" : 5,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : false,
+      "nmAtributo" : "IE_ADICIONAL",
+      "optionsDescription" : "S,N",
+      "optionsExpressionCode" : 337670,
+      "ordem" : 100,
+      "primaryKey" : false,
+      "readOnly" : false,
+      "row" : 130,
+      "sensitive" : false,
+      "tabStop" : true,
+      "tipoAtributo" : "VARCHAR2",
+      "tooltip" : "Additional reservation",
+      "tooltipExpressionCode" : 301055,
+      "vlDefault" : "N",
+      "widthHTML" : 150
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504502",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504502,
+      "componente" : "DATETIMEPICKER",
+      "criarDescFk" : true,
+      "criarDescricao" : false,
+      "dbClickReadOnly" : false,
+      "dbPanelComponentType" : "DTP",
+      "displayCurrentTime" : false,
+      "enabled" : true,
+      "foreignKey" : false,
+      "gridLabel" : "Reservation date",
+      "gridLabelExpressionCode" : 303464,
+      "gridSequence" : 5,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "label" : "Reservation date",
+      "labelExpressionCode" : 303464,
+      "leftAnchored" : true,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : true,
+      "mask" : "date(short)",
+      "nmAtributo" : "DT_RESERVA",
+      "offset" : 3,
+      "ordem" : 10,
+      "primaryKey" : false,
+      "qtLargura" : 200,
+      "readOnly" : false,
+      "row" : 20,
+      "sensitive" : false,
+      "tabStop" : true,
+      "tipoAtributo" : "DATE",
+      "tooltip" : "Specify the reservation date of the method of transport to be used for the journey",
+      "tooltipExpressionCode" : 566005,
+      "widthHTML" : 200
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504524",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504524,
+      "criarDescFk" : true,
+      "criarDescricao" : false,
+      "dbClickReadOnly" : false,
+      "displayCurrentTime" : false,
+      "enabled" : true,
+      "foreignKey" : false,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : false,
+      "nmAtributo" : "NR_SEQ_ITINERARIO",
+      "primaryKey" : false,
+      "qtDecimais" : 0,
+      "readOnly" : false,
+      "sensitive" : false,
+      "tabStop" : true,
+      "tipoAtributo" : "NUMBER"
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504503",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504503,
+      "componente" : "TEXTBOX_LOCATOR",
+      "criarDescFk" : true,
+      "criarDescricao" : true,
+      "dbClickReadOnly" : false,
+      "dbPanelComponentType" : "LOC",
+      "displayCurrentTime" : false,
+      "enabled" : true,
+      "foreignKey" : false,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "label" : "Third party (payer)",
+      "labelExpressionCode" : 299308,
+      "largura" : 3,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : false,
+      "nmAtributo" : "CD_CGC_PAGADOR",
+      "nmAtributoCd" : "CD_CGC",
+      "nmAtributoDs" : "DS_RAZAO_SOCIAL",
+      "nmTabelaRef" : "PESSOA_JURIDICA",
+      "nrSeqLocalizador" : 11,
+      "ordem" : 60,
+      "primaryKey" : false,
+      "readOnly" : false,
+      "row" : 70,
+      "sensitive" : false,
+      "tabStop" : true,
+      "tipoAtributo" : "VARCHAR2",
+      "tooltip" : "Specify the company responsible for the reservation payment.",
+      "tooltipExpressionCode" : 566006,
+      "widthHTML" : 250
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504525",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504525,
+      "criarDescFk" : true,
+      "criarDescricao" : false,
+      "dbClickReadOnly" : false,
+      "displayCurrentTime" : false,
+      "enabled" : true,
+      "foreignKey" : false,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : false,
+      "nmAtributo" : "VL_ORIGEM",
+      "primaryKey" : false,
+      "qtDecimais" : 2,
+      "readOnly" : false,
+      "sensitive" : false,
+      "tabStop" : true,
+      "tipoAtributo" : "NUMBER"
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504504",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504504,
+      "criarDescFk" : true,
+      "criarDescricao" : false,
+      "dbClickReadOnly" : false,
+      "displayCurrentTime" : false,
+      "dsValores" : "substr(obter_dados_pf_pj(null,cd_cgc_pagador,'N'),1,60)",
+      "enabled" : true,
+      "foreignKey" : false,
+      "gridLabel" : "Third party (payer)",
+      "gridLabelExpressionCode" : 299308,
+      "gridSequence" : 58,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : false,
+      "nmAtributo" : "DS_PAGADOR",
+      "ordem" : 68,
+      "primaryKey" : false,
+      "qtLargura" : 230,
+      "readOnly" : true,
+      "sensitive" : false,
+      "tabStop" : false,
+      "tipoAtributo" : "FUNCTION",
+      "tooltip" : "Information automatically generated by the system.",
+      "tooltipExpressionCode" : 561580,
+      "widthHTML" : 400
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504526",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504526,
+      "componente" : "TEXTBOX",
+      "criarDescFk" : true,
+      "criarDescricao" : false,
+      "dbClickReadOnly" : false,
+      "dbPanelComponentType" : "DE",
+      "displayCurrentTime" : false,
+      "enabled" : true,
+      "foreignKey" : true,
+      "gridLabel" : "Main sequence",
+      "gridLabelExpressionCode" : 1050383,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "label" : "Main sequence",
+      "labelExpressionCode" : 1050383,
+      "largura" : 3,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : false,
+      "nmAtributo" : "NR_SEQ_RESERVA_PRINC",
+      "offset" : 2,
+      "ordem" : 94,
+      "primaryKey" : false,
+      "qtDecimais" : 0,
+      "qtLargura" : 160,
+      "readOnly" : false,
+      "row" : 110,
+      "sensitive" : false,
+      "tabStop" : true,
+      "tipoAtributo" : "NUMBER",
+      "tooltip" : "Main sequence",
+      "tooltipExpressionCode" : 1050383,
+      "widthHTML" : 200
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504527",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504527,
+      "componente" : "TEXTBOX_LOCATOR",
+      "criarDescFk" : true,
+      "criarDescricao" : true,
+      "dbClickReadOnly" : false,
+      "dbPanelComponentType" : "LOC",
+      "displayCurrentTime" : false,
+      "enabled" : true,
+      "foreignKey" : true,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "label" : "Cost center",
+      "labelExpressionCode" : 284785,
+      "largura" : 3,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : false,
+      "nmAtributo" : "CD_CENTRO_CUSTO",
+      "nmAtributoCd" : "CD_CENTRO_CUSTO",
+      "nmAtributoDs" : "DS_CENTRO_CUSTO",
+      "nmTabelaRef" : "CENTRO_CUSTO",
+      "nrSeqLocalizador" : 331,
+      "ordem" : 37,
+      "primaryKey" : false,
+      "qtDecimais" : 0,
+      "readOnly" : false,
+      "row" : 90,
+      "sensitive" : false,
+      "tabStop" : true,
+      "tipoAtributo" : "NUMBER",
+      "tooltip" : "Cost center",
+      "tooltipExpressionCode" : 284785,
+      "widthHTML" : 300
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504505",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "altura" : 20,
+      "code" : 728504505,
+      "componente" : "TEXTAREA",
+      "criarDescFk" : true,
+      "criarDescricao" : false,
+      "dbClickReadOnly" : false,
+      "dbPanelComponentType" : "ME",
+      "displayCurrentTime" : false,
+      "enabled" : true,
+      "foreignKey" : false,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "label" : "Notes",
+      "labelExpressionCode" : 294639,
+      "largura" : 12,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : false,
+      "nmAtributo" : "DS_OBSERVACAO",
+      "ordem" : 95,
+      "primaryKey" : false,
+      "readOnly" : false,
+      "row" : 120,
+      "sensitive" : false,
+      "tabStop" : true,
+      "tipoAtributo" : "VARCHAR2",
+      "tooltip" : "Provide any comments or specific information related to this reservation.",
+      "tooltipExpressionCode" : 574830
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504528",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504528,
+      "criarDescFk" : true,
+      "criarDescricao" : false,
+      "dbClickReadOnly" : false,
+      "displayCurrentTime" : false,
+      "enabled" : true,
+      "foreignKey" : false,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : false,
+      "nmAtributo" : "IE_CANCELAMENTO",
+      "primaryKey" : false,
+      "readOnly" : false,
+      "sensitive" : false,
+      "tabStop" : true,
+      "tipoAtributo" : "VARCHAR2"
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504506",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504506,
+      "criarDescFk" : true,
+      "criarDescricao" : false,
+      "dbClickReadOnly" : false,
+      "displayCurrentTime" : false,
+      "enabled" : true,
+      "foreignKey" : true,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : true,
+      "nmAtributo" : "NR_SEQ_VIAGEM",
+      "primaryKey" : false,
+      "qtDecimais" : 0,
+      "readOnly" : false,
+      "sensitive" : false,
+      "tabStop" : true,
+      "tipoAtributo" : "NUMBER"
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504529",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504529,
+      "criarDescFk" : true,
+      "criarDescricao" : false,
+      "dbClickReadOnly" : false,
+      "displayCurrentTime" : false,
+      "enabled" : true,
+      "foreignKey" : false,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : false,
+      "nmAtributo" : "DS_MOTIVO_CANCELAMENTO",
+      "primaryKey" : false,
+      "readOnly" : false,
+      "sensitive" : false,
+      "tabStop" : true,
+      "tipoAtributo" : "VARCHAR2"
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504507",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504507,
+      "criarDescFk" : true,
+      "criarDescricao" : false,
+      "dbClickReadOnly" : false,
+      "displayCurrentTime" : false,
+      "dsValores" : "substr(obter_valor_dominio(1765,ie_tipo_reserva),1,40)",
+      "enabled" : true,
+      "foreignKey" : false,
+      "gridLabel" : "Tipo reserva",
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : false,
+      "nmAtributo" : "DS_TIPO_RESERVA",
+      "nmAtributoPai" : [ "IE_TIPO_RESERVA" ],
+      "primaryKey" : false,
+      "readOnly" : true,
+      "sensitive" : false,
+      "tabStop" : false,
+      "tipoAtributo" : "FUNCTION",
+      "tooltip" : "Information automatically generated by the system.",
+      "tooltipExpressionCode" : 561580
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504508",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504508,
+      "criarDescFk" : true,
+      "criarDescricao" : false,
+      "dbClickReadOnly" : false,
+      "displayCurrentTime" : false,
+      "dsValores" : "substr(obter_dados_pf_pj(null,cd_cgc_agencia,'N'),1,60)",
+      "enabled" : true,
+      "foreignKey" : false,
+      "gridLabel" : "Branch",
+      "gridLabelExpressionCode" : 283230,
+      "gridSequence" : 22,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : false,
+      "nmAtributo" : "DS_AGENCIA",
+      "nmAtributoPai" : [ "CD_CGC_AGENCIA" ],
+      "ordem" : 20,
+      "primaryKey" : false,
+      "qtLargura" : 200,
+      "readOnly" : true,
+      "sensitive" : false,
+      "tabStop" : false,
+      "tipoAtributo" : "FUNCTION",
+      "tooltip" : "Information automatically generated by the system.",
+      "tooltipExpressionCode" : 561580
+    }
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:728504509",
+    "value" : {
+      "IeTooltip" : false,
+      "alinharDireita" : false,
+      "code" : 728504509,
+      "componente" : "TEXTBOX",
+      "criarDescFk" : true,
+      "criarDescricao" : false,
+      "dbClickReadOnly" : false,
+      "dbPanelComponentType" : "DE",
+      "displayCurrentTime" : false,
+      "enabled" : true,
+      "foreignKey" : false,
+      "gridLabel" : "Reservation number ",
+      "gridLabelExpressionCode" : 294504,
+      "gridSequence" : 3,
+      "ieCustomAttribute" : false,
+      "ieInfoPatient" : false,
+      "ieUnidLargura" : "PX",
+      "ieVisible" : true,
+      "isDialectField" : false,
+      "label" : "Reservation number ",
+      "labelExpressionCode" : 294504,
+      "largura" : 3,
+      "leftAnchored" : false,
+      "lineBreak" : false,
+      "logOptions" : {
+        "logUpdates" : "N"
+      },
+      "mandatory" : false,
+      "nmAtributo" : "NR_RESERVA",
+      "offset" : 6,
+      "ordem" : 3,
+      "primaryKey" : false,
+      "qtLargura" : 200,
+      "readOnly" : false,
+      "row" : 10,
+      "sensitive" : false,
+      "tabStop" : true,
+      "tipoAtributo" : "VARCHAR2",
+      "tooltip" : "Specify the reservation number",
+      "tooltipExpressionCode" : 574831,
+      "widthHTML" : 200
+    }
+  }, {
+    "op" : "remove",
+    "path" : "/signatureValues"
+  } ],
+  "type" : "PARTNER"
+}
